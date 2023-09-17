@@ -1,4 +1,5 @@
 import Millionaires from './components/millionaires';
+import './style/style.sass'
 
 const App = () => <Millionaires/>
 
